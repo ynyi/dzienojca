@@ -1,0 +1,6 @@
+{
+  "name": "Podwodne Życzenia",
+  "description": "Animowana podwodna kartka z życzeniami na Dzień Ojca z rybami i bąbelkami.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
